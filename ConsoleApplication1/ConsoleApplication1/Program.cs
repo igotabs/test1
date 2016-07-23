@@ -29,6 +29,8 @@ namespace ConsoleApplication1
             dd.Add(d1);
             dd.Add(d1);
             ///commit oleg 1
+            ///
+            //commit oleg 2
             foreach (var item in dd)
             {
                 Console.WriteLine(item.r);
