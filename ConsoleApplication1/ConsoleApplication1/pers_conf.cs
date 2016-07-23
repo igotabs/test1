@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,9 +9,9 @@ namespace ConsoleApplication1
    
     public static class PersConf
     {
+        ///commit oleg 1
 
-    
-        public static string personal = "Pers conf pers: dr_igotab";
+        public static string personal = "Pers conf pers: master";
 
     }
 }
