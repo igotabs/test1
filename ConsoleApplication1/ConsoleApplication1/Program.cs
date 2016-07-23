@@ -28,13 +28,16 @@ namespace ConsoleApplication1
             dd.Add(d);
             dd.Add(d1);
             dd.Add(d1);
+            ///commit oleg 1
             foreach (var item in dd)
             {
                 Console.WriteLine(item.r);
 
-                Console.WriteLine("com conf com!"+ confCommonAndPerson.comm);
+                Console.WriteLine("com conf com!"+ confCommonAndPerson.master);
                 Console.WriteLine("com conf pers!"+confCommonAndPerson.personal);
                 Console.WriteLine("pers conf!"+ PersConf.personal);
+                Console.WriteLine("Commit oleg 1!");
+
                 break;
             }
             Console.ReadKey();
