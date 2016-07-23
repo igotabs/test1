@@ -16,6 +16,8 @@ namespace ConsoleApplication1
     }
     class Program
     {
+
+        //d_igotab
         static void Main(string[] args)
         {
             var i = 1;
@@ -24,6 +26,16 @@ namespace ConsoleApplication1
             var dd = new List<A>();
             dd.Add(d);
             dd.Add(d1);
+            foreach (var item in dd)
+            {
+                Console.WriteLine(item.r);
+
+                Console.WriteLine("com conf com!"+ confCommonAndPerson.comm);
+                Console.WriteLine("com conf pers!"+confCommonAndPerson.personal);
+                Console.WriteLine("pers conf!"+ PersConf.personal);
+                break;
+            }
+            Console.ReadKey();
         }
     }
 }
