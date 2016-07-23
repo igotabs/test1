@@ -28,8 +28,9 @@ namespace ConsoleApplication1
             dd.Add(d1);
             foreach (var item in dd)
             {
+                //commit igotab
                 Console.WriteLine(item.r);
-
+                
                 Console.WriteLine("com conf com!"+ confCommonAndPerson.comm);
                 Console.WriteLine("com conf pers!"+confCommonAndPerson.personal);
                 Console.WriteLine("pers conf!"+ PersConf.personal);
