@@ -30,6 +30,7 @@ namespace ConsoleApplication1
             {
                 //commit igotab
                 //com,it igotab
+                //drigotab
                 Console.WriteLine(item.r);
                 
                 Console.WriteLine("com conf com!"+ confCommonAndPerson.master);
