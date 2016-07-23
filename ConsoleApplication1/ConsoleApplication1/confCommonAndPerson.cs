@@ -8,9 +8,11 @@ namespace ConsoleApplication1
 {
     public static class confCommonAndPerson
     {
+        ///commit oleg 1
 
-       public static string comm = "Common conf com part: master for all";
-         public static string personal = "Common conf personal part: dr_igotab";
+        public static string master = "Common conf com part: master for all";
+         public static string personal = "Common conf personal part: oleg";
+        
 
     }
 }
