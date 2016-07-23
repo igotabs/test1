@@ -23,6 +23,7 @@ namespace ConsoleApplication1
             var d1 = new A(i);
             var dd = new List<A>();
             dd.Add(d);
+            dd.Add(d);
             dd.Add(d1);
         }
     }
