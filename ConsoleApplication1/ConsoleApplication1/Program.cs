@@ -25,6 +25,7 @@ namespace ConsoleApplication1
             dd.Add(d);
             dd.Add(d);
             dd.Add(d1);
+            dd.Add(d1);
         }
     }
 }
