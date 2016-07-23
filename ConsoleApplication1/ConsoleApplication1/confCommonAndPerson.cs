@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         ///commit oleg 1
 
         public static string master = "Common conf com part: master for all";
-         public static string personal = "Common conf personal part: oleg";
+         public static string personal = "Common conf personal part: master";
         
 
     }
