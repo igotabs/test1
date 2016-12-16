@@ -59,6 +59,7 @@
     <Compile Include="VisualWebPart1\VisualWebPart1.cs" />
     <Compile Include="VisualWebPart1\VisualWebPart1UserControl.ascx.cs">
       <DependentUpon>VisualWebPart1UserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="VisualWebPart1\VisualWebPart1UserControl.ascx.designer.cs">
       <DependentUpon>VisualWebPart1UserControl.ascx.cs</DependentUpon>
