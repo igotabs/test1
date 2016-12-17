@@ -81,5 +81,6 @@ D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Debug\ko\System.Spatial.res
 D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Debug\ru\System.Spatial.resources.dll
 D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Debug\zh-Hans\System.Spatial.resources.dll
 D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\git\ConsoleApplication1\VisualWebPartProject3\obj\Debug\VisualWebPartProject3.csprojResolveAssemblyReference.cache
 D:\git\ConsoleApplication1\VisualWebPartProject3\obj\Debug\VisualWebPartProject3.dll
 D:\git\ConsoleApplication1\VisualWebPartProject3\obj\Debug\VisualWebPartProject3.pdb
