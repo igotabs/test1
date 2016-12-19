@@ -11,6 +11,8 @@
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\VisualWebPartProject3.wsp" target="VisualWebPartProject3.wsp"  />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\VisualWebPartProject3.dll" target="VisualWebPartProject3.dll" />
     <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\VisualWebPartProject3.dll" target="VisualWebPartProject3.dll" />
     <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\VisualWebPartProject3.pdb" target="VisualWebPartProject3.pdb" />
     <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.ServerRuntime.dll" target="Microsoft.SharePoint.Client.ServerRuntime.dll" />
