@@ -8,4 +8,4 @@
 <%@ Control Language="C#" AutoEventWireup="true" CodeBehind="VisualWebPart1UserControl.ascx.cs" Inherits="VisualWebPartProject3.VisualWebPart1.VisualWebPart1UserControl" %>
 hello
 
-vetka Tarasa
+vetka my
