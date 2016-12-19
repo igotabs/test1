@@ -1,0 +1,98 @@
+<package>
+  <metadata>
+    <id>VisualWebPartProject3</id>
+    <version>1.0.0.0</version>
+    <authors>oleg</authors>
+    <owners>oleg</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The VisualWebPartProject3 deployment package, built on 12/19/2016</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\VisualWebPartProject3.dll" target="VisualWebPartProject3.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\VisualWebPartProject3.pdb" target="VisualWebPartProject3.pdb" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.ServerRuntime.dll" target="Microsoft.SharePoint.Client.ServerRuntime.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.dll" target="Microsoft.SharePoint.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Web.Administration.dll" target="Microsoft.Web.Administration.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Search.dll" target="Microsoft.SharePoint.Search.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Web.CommandUI.dll" target="Microsoft.Web.CommandUI.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Data.Edm.dll" target="Microsoft.Data.Edm.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.IdentityModel.Extensions.dll" target="Microsoft.IdentityModel.Extensions.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.BusinessData.dll" target="Microsoft.BusinessData.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Data.OData.dll" target="Microsoft.Data.OData.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.dll" target="Microsoft.SharePoint.Client.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\DocumentFormat.OpenXml.dll" target="DocumentFormat.OpenXml.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Security.dll" target="Microsoft.SharePoint.Security.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.Runtime.dll" target="Microsoft.SharePoint.Client.Runtime.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\System.Spatial.dll" target="System.Spatial.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.Search.dll" target="Microsoft.Office.Server.Search.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Taxonomy.dll" target="Microsoft.SharePoint.Taxonomy.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.dll" target="Microsoft.Office.Server.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Newtonsoft.Json.dll" target="Newtonsoft.Json.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Portal.dll" target="Microsoft.SharePoint.Portal.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Publishing.dll" target="Microsoft.SharePoint.Publishing.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.UserProfiles.dll" target="Microsoft.Office.Server.UserProfiles.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Search.Extended.Administration.dll" target="Microsoft.SharePoint.Search.Extended.Administration.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll" target="Microsoft.SharePoint.Search.Extended.Administration.ResourceStorage.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.Search.Applications.dll" target="Microsoft.Office.Server.Search.Applications.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.Search.dll" target="Microsoft.SharePoint.Client.Search.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.mshtml.dll" target="Microsoft.mshtml.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Search.Extended.Administration.Common.dll" target="Microsoft.SharePoint.Search.Extended.Administration.Common.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.Search.Connector.dll" target="Microsoft.Office.Server.Search.Connector.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.Taxonomy.dll" target="Microsoft.SharePoint.Client.Taxonomy.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.AnalysisServices.AdomdClient.dll" target="Microsoft.AnalysisServices.AdomdClient.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.DocumentManagement.dll" target="Microsoft.Office.DocumentManagement.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Policy.dll" target="Microsoft.Office.Policy.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.UserProfiles.dll" target="Microsoft.SharePoint.Client.UserProfiles.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.Directory.dll" target="Microsoft.SharePoint.Client.Directory.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.SecureStoreService.Server.Security.dll" target="Microsoft.Office.SecureStoreService.Server.Security.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.xml" target="Microsoft.SharePoint.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Search.xml" target="Microsoft.SharePoint.Search.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Data.Edm.xml" target="Microsoft.Data.Edm.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.BusinessData.xml" target="Microsoft.BusinessData.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Data.OData.xml" target="Microsoft.Data.OData.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.xml" target="Microsoft.SharePoint.Client.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\DocumentFormat.OpenXml.xml" target="DocumentFormat.OpenXml.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Security.xml" target="Microsoft.SharePoint.Security.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Client.Runtime.xml" target="Microsoft.SharePoint.Client.Runtime.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\System.Spatial.xml" target="System.Spatial.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.Search.xml" target="Microsoft.Office.Server.Search.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Taxonomy.xml" target="Microsoft.SharePoint.Taxonomy.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.xml" target="Microsoft.Office.Server.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Portal.xml" target="Microsoft.SharePoint.Portal.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.SharePoint.Publishing.xml" target="Microsoft.SharePoint.Publishing.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.UserProfiles.xml" target="Microsoft.Office.Server.UserProfiles.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Server.Search.Connector.xml" target="Microsoft.Office.Server.Search.Connector.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.DocumentManagement.xml" target="Microsoft.Office.DocumentManagement.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\Microsoft.Office.Policy.xml" target="Microsoft.Office.Policy.xml" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\de\Microsoft.Data.Edm.resources.dll" target="de\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\es\Microsoft.Data.Edm.resources.dll" target="es\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\fr\Microsoft.Data.Edm.resources.dll" target="fr\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\it\Microsoft.Data.Edm.resources.dll" target="it\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ja\Microsoft.Data.Edm.resources.dll" target="ja\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ko\Microsoft.Data.Edm.resources.dll" target="ko\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ru\Microsoft.Data.Edm.resources.dll" target="ru\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll" target="zh-Hans\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll" target="zh-Hant\Microsoft.Data.Edm.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\de\Microsoft.Data.OData.resources.dll" target="de\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\es\Microsoft.Data.OData.resources.dll" target="es\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\fr\Microsoft.Data.OData.resources.dll" target="fr\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\it\Microsoft.Data.OData.resources.dll" target="it\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ja\Microsoft.Data.OData.resources.dll" target="ja\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ko\Microsoft.Data.OData.resources.dll" target="ko\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ru\Microsoft.Data.OData.resources.dll" target="ru\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll" target="zh-Hans\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll" target="zh-Hant\Microsoft.Data.OData.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\de\System.Spatial.resources.dll" target="de\System.Spatial.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\es\System.Spatial.resources.dll" target="es\System.Spatial.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\fr\System.Spatial.resources.dll" target="fr\System.Spatial.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\it\System.Spatial.resources.dll" target="it\System.Spatial.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ja\System.Spatial.resources.dll" target="ja\System.Spatial.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ko\System.Spatial.resources.dll" target="ko\System.Spatial.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\ru\System.Spatial.resources.dll" target="ru\System.Spatial.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\zh-Hans\System.Spatial.resources.dll" target="zh-Hans\System.Spatial.resources.dll" />
+    <file src="D:\git\ConsoleApplication1\VisualWebPartProject3\bin\Release\zh-Hant\System.Spatial.resources.dll" target="zh-Hant\System.Spatial.resources.dll" />
+  </files>
+</package>
